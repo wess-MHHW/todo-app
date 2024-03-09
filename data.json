@@ -1,0 +1,29 @@
+{
+    "tasks":[
+        {
+            "value":"Complete online JavaScript course",
+            "isCompleted":true
+        },
+        {
+            "value":"Jog around the park 3x",
+            "isCompleted":false
+        },
+        {
+            "value":"10 minutes meditation",
+            "isCompleted":false
+        },
+        {
+            "value":"Read for 1 hour",
+            "isCompleted":false
+        },
+        {
+            "value":"Pick up groceries",
+            "isCompleted":false
+        },
+        {
+            "value":"Complete Todo App on frontend Mentor",
+            "isCompleted":false
+        }
+        
+    ]
+}
